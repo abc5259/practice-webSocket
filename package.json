@@ -1,0 +1,30 @@
+{
+  "name": "practice-websocket",
+  "version": "1.0.0",
+  "description": "practice webSocket",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abc5259/practice-webSocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abc5259/practice-webSocket/issues"
+  },
+  "homepage": "https://github.com/abc5259/practice-webSocket#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
+  }
+}
